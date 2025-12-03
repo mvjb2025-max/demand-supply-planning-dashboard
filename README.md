@@ -23,5 +23,8 @@ The goal was to show how I would:
 
 _Data is dummy / anonymised and used purely for demonstration purposes._
 
+![Overview](images/page1_overview.png)
+![Exceptions](images/page2_exceptions.png)
+
 demand-supply-planning-dashboard / page1_overview.png
 demand-supply-planning-dashboard / page2_exceptions.png
