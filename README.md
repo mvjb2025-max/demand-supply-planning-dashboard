@@ -22,3 +22,6 @@ The goal was to show how I would:
 - Written summary of key risks and suggested mitigation actions
 
 _Data is dummy / anonymised and used purely for demonstration purposes._
+
+![Overview](images/page1_overview.png)
+![Exceptions](images/page2_exceptions.png)
